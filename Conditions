@@ -1,0 +1,28 @@
+public class Conditions {
+    public static void main(String args[]){
+        
+      int  score =  num;
+      if (num>=90)
+      {
+          System.out.println("A");
+      }
+      else if (90>num>=80)
+      {
+          System.out.println("B");
+      }
+      else if (80>num>=70)
+      {
+          System.out.println("C");
+      }
+      else if (70>num>=55)
+      {
+          System.out.println("D");
+      }
+      else 
+      {
+          System.out.println("F");
+      }
+
+    
+    }//end of main()
+}// closing of class
